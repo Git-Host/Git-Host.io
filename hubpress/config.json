@@ -1,7 +1,7 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "username": "Git-Host",
+    "repositoryName": "Git-Host.io",
     "branch": "gh-pages"
   },
   "theme": {
